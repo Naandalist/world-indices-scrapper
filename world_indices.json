@@ -1,0 +1,330 @@
+[
+  {
+    "symbol": "^GSPC",
+    "name": "S&P 500",
+    "price": "5,738.17",
+    "change": "-7.20",
+    "changePercent": "-0.13%",
+    "volume": "2.317B"
+  },
+  {
+    "symbol": "^DJI",
+    "name": "Dow Jones Industrial Average",
+    "price": "42,313.00",
+    "change": "+137.89",
+    "changePercent": "+0.33%",
+    "volume": "329.846M"
+  },
+  {
+    "symbol": "^IXIC",
+    "name": "NASDAQ Composite",
+    "price": "18,119.59",
+    "change": "-70.70",
+    "changePercent": "-0.39%",
+    "volume": "4.847B"
+  },
+  {
+    "symbol": "^NYA",
+    "name": "NYSE COMPOSITE (DJ)",
+    "price": "19,501.22",
+    "change": "-0.50",
+    "changePercent": "-0.00%",
+    "volume": "0"
+  },
+  {
+    "symbol": "^XAX",
+    "name": "NYSE AMEX COMPOSITE INDEX",
+    "price": "5,090.22",
+    "change": "+42.27",
+    "changePercent": "+0.84%",
+    "volume": "0"
+  },
+  {
+    "symbol": "^BUK100P",
+    "name": "Cboe UK 100",
+    "price": "832.81",
+    "change": "+3.22",
+    "changePercent": "+0.39%",
+    "volume": "0"
+  },
+  {
+    "symbol": "^RUT",
+    "name": "Russell 2000",
+    "price": "2,224.70",
+    "change": "+14.83",
+    "changePercent": "+0.67%",
+    "volume": "0"
+  },
+  {
+    "symbol": "^VIX",
+    "name": "CBOE Volatility Index",
+    "price": "16.96",
+    "change": "+1.59",
+    "changePercent": "+10.34%",
+    "volume": "0"
+  },
+  {
+    "symbol": "^FTSE",
+    "name": "FTSE 100",
+    "price": "8,320.76",
+    "change": "+35.85",
+    "changePercent": "+0.43%",
+    "volume": "0"
+  },
+  {
+    "symbol": "^GDAXI",
+    "name": "DAX PERFORMANCE-INDEX",
+    "price": "19,473.63",
+    "change": "+235.27",
+    "changePercent": "+1.22%",
+    "volume": "0"
+  },
+  {
+    "symbol": "^FCHI",
+    "name": "CAC 40",
+    "price": "7,791.79",
+    "change": "+49.70",
+    "changePercent": "+0.64%",
+    "volume": "0"
+  },
+  {
+    "symbol": "^STOXX50E",
+    "name": "ESTX 50 PR.EUR",
+    "price": "5,067.45",
+    "change": "+34.86",
+    "changePercent": "+0.69%",
+    "volume": "0"
+  },
+  {
+    "symbol": "^N100",
+    "name": "Euronext 100 Index",
+    "price": "1,505.34",
+    "change": "+8.67",
+    "changePercent": "+0.58%",
+    "volume": "0"
+  },
+  {
+    "symbol": "^BFX",
+    "name": "BEL 20",
+    "price": "4,318.18",
+    "change": "+36.96",
+    "changePercent": "+0.86%",
+    "volume": "0"
+  },
+  {
+    "symbol": "MOEX.ME",
+    "name": "Public Joint-Stock Company Moscow Exchange MICEX-RTS",
+    "price": "85.20",
+    "change": "-0.11",
+    "changePercent": "-0.13%",
+    "volume": "1.576M"
+  },
+  {
+    "symbol": "^HSI",
+    "name": "HANG SENG INDEX",
+    "price": "20,632.30",
+    "change": "+707.72",
+    "changePercent": "+3.55%",
+    "volume": "0"
+  },
+  {
+    "symbol": "^STI",
+    "name": "STI Index",
+    "price": "3,573.36",
+    "change": "-8.87",
+    "changePercent": "-0.25%",
+    "volume": "0"
+  },
+  {
+    "symbol": "^AXJO",
+    "name": "S&P/ASX 200",
+    "price": "8,212.20",
+    "change": "+8.50",
+    "changePercent": "+0.10%",
+    "volume": "0"
+  },
+  {
+    "symbol": "^AORD",
+    "name": "ALL ORDINARIES",
+    "price": "8,476.80",
+    "change": "+14.00",
+    "changePercent": "+0.17%",
+    "volume": "0"
+  },
+  {
+    "symbol": "^BSESN",
+    "name": "S&P BSE SENSEX",
+    "price": "85,571.85",
+    "change": "-264.27",
+    "changePercent": "-0.31%",
+    "volume": "0"
+  },
+  {
+    "symbol": "^JKSE",
+    "name": "IDX COMPOSITE",
+    "price": "7,696.92",
+    "change": "-47.60",
+    "changePercent": "-0.61%",
+    "volume": "0"
+  },
+  {
+    "symbol": "^KLSE",
+    "name": "FTSE Bursa Malaysia KLCI",
+    "price": "1,660.09",
+    "change": "-11.23",
+    "changePercent": "-0.67%",
+    "volume": "0"
+  },
+  {
+    "symbol": "^NZ50",
+    "name": "S&P/NZX 50 INDEX GROSS ( GROSS",
+    "price": "12,457.41",
+    "change": "-34.17",
+    "changePercent": "-0.27%",
+    "volume": "0"
+  },
+  {
+    "symbol": "^KS11",
+    "name": "KOSPI Composite Index",
+    "price": "2,649.78",
+    "change": "-21.79",
+    "changePercent": "-0.82%",
+    "volume": "413,004"
+  },
+  {
+    "symbol": "^TWII",
+    "name": "TSEC weighted index",
+    "price": "22,822.79",
+    "change": "-36.02",
+    "changePercent": "-0.16%",
+    "volume": "0"
+  },
+  {
+    "symbol": "^GSPTSE",
+    "name": "S&P/TSX Composite index",
+    "price": "23,956.82",
+    "change": "-77.01",
+    "changePercent": "-0.32%",
+    "volume": "330.883M"
+  },
+  {
+    "symbol": "^BVSP",
+    "name": "IBOVESPA",
+    "price": "132,730.36",
+    "change": "-279.42",
+    "changePercent": "-0.21%",
+    "volume": "0"
+  },
+  {
+    "symbol": "^MXX",
+    "name": "IPC MEXICO",
+    "price": "52,778.17",
+    "change": "-812.35",
+    "changePercent": "-1.52%",
+    "volume": "234.65M"
+  },
+  {
+    "symbol": "^IPSA",
+    "name": "S&P IPSA",
+    "price": "6,530.73",
+    "change": "+0.75",
+    "changePercent": "+0.01%",
+    "volume": "1.663B"
+  },
+  {
+    "symbol": "^MERV",
+    "name": "MERVAL",
+    "price": "1,727,776.50",
+    "change": "+12,105.88",
+    "changePercent": "+0.71%",
+    "volume": "0"
+  },
+  {
+    "symbol": "^TA125.TA",
+    "name": "TA-125",
+    "price": "2,112.99",
+    "change": "+21.72",
+    "changePercent": "+1.04%",
+    "volume": "0"
+  },
+  {
+    "symbol": "^CASE30",
+    "name": "EGX 30 Price Return Index",
+    "price": "31,459.10",
+    "change": "+208.50",
+    "changePercent": "+0.67%",
+    "volume": "168.331M"
+  },
+  {
+    "symbol": "^JN0U.JO",
+    "name": "Top 40 USD Net TRI Index",
+    "price": "4,996.72",
+    "change": "+40.33",
+    "changePercent": "+0.81%",
+    "volume": "0"
+  },
+  {
+    "symbol": "DX-Y.NYB",
+    "name": "US Dollar Index",
+    "price": "100.42",
+    "change": "+0.04",
+    "changePercent": "+0.04%",
+    "volume": "-"
+  },
+  {
+    "symbol": "^125904-USD-STRD",
+    "name": "MSCI EUROPE",
+    "price": "2,250.56",
+    "change": "+13.18",
+    "changePercent": "+0.59%",
+    "volume": "-"
+  },
+  {
+    "symbol": "^XDB",
+    "name": "British Pound Currency Index",
+    "price": "133.71",
+    "change": "-0.37",
+    "changePercent": "-0.28%",
+    "volume": "0"
+  },
+  {
+    "symbol": "^XDE",
+    "name": "Euro Currency Index",
+    "price": "111.66",
+    "change": "-0.11",
+    "changePercent": "-0.10%",
+    "volume": "0"
+  },
+  {
+    "symbol": "000001.SS",
+    "name": "SSE Composite Index",
+    "price": "3,087.53",
+    "change": "+86.58",
+    "changePercent": "+2.88%",
+    "volume": "1.984B"
+  },
+  {
+    "symbol": "^N225",
+    "name": "Nikkei 225",
+    "price": "39,829.56",
+    "change": "+903.93",
+    "changePercent": "+2.32%",
+    "volume": "0"
+  },
+  {
+    "symbol": "^XDN",
+    "name": "Japanese Yen Currency Index",
+    "price": "70.35",
+    "change": "+1.30",
+    "changePercent": "+1.88%",
+    "volume": "0"
+  },
+  {
+    "symbol": "^XDA",
+    "name": "Australian Dollar Currency Index",
+    "price": "69.11",
+    "change": "+0.17",
+    "changePercent": "+0.25%",
+    "volume": "0"
+  }
+]

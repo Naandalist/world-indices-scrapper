@@ -1,0 +1,30 @@
+{
+  "name": "world-indices-scrapper",
+  "description": "Scraping tool built with Bun and Playwright to fetch and format world stock indices data from Yahoo Finance.",
+  "version": "0.0.1",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "start": "bun index.ts"
+  },
+  "author": "Listiananda Apriliawan",
+  "keywords": [
+    "stock-indices",
+    "web-scraping",
+    "bun",
+    "playwright",
+    "typescript",
+    "api"
+  ],
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@types/user-agents": "^1.0.4",
+    "playwright": "^1.47.2",
+    "user-agents": "^1.1.325"
+  }
+}
